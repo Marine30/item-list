@@ -3571,78 +3571,6 @@
 		"defname": "MovingRailGreenPuller"
 	},
 	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestlargerechargestation",
-		"price": 608,
-		"category": "Furniture",
-		"defname": "AIPawn_RechargeStation2xGuest"
-	},
-	{
-		"abr": "guestmedicalmat",
-		"price": 433,
-		"category": "Misc",
-		"defname": "MSMedicalMatGuest"
-	},
-	{
-		"abr": "guestmedicalmat(early)",
-		"price": 450,
-		"category": "Misc",
-		"defname": "MSMedicalMatEarlyGuest"
-	},
-	{
-		"abr": "guestmedicalmat(spacertech)",
-		"price": 767,
-		"category": "Misc",
-		"defname": "MSMedicalMatSpacerGuest"
-	},
-	{
-		"abr": "guestmedicalmat(ultratech)",
-		"price": 1192,
-		"category": "Misc",
-		"defname": "MSMedicalMatUltraGuest"
-	},
-	{
-		"abr": "guestrechargestation",
-		"price": 358,
-		"category": "Furniture",
-		"defname": "AIPawn_RechargeStationGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
 		"abr": "guineapig",
 		"price": 250,
 		"category": "Animal",
@@ -9595,11 +9523,77 @@
 		"defname": "BigTurbine"
 	},
 	{
-		"abr": "zombrella",
-		"price": 3333,
+		"abr": "bionicfinger",
+		"price": 300,
+		"category": "Bionic",
+		"defname": "BionicFinger"
+	},
+	{
+		"abr": "bionictoe",
+		"price": 300,
+		"category": "Bionic",
+		"defname": "BionicToe"
+	},
+	{
+		"abr": "prostheticfinger",
+		"price": 100,
+		"category": "Prosthetic",
+		"defname": "ProstheticFinger"
+	},
+	{
+		"abr": "prosthetictoe",
+		"price": 100,
+		"category": "Prosthetic",
+		"defname": "ProstheticToe"
+	},
+	{
+		"abr": "solarcontroller",
+		"price": 417,
 		"category": "Misc",
-		"defname": "Zombrella"
+		"defname": "SolarController"
+	},
+	{
+		"abr": "solarroofing",
+		"price": 14,
+		"category": "Misc",
+		"defname": "RoofSolarFraming"
+	},
+	{
+		"abr": "sprinkledfuel",
+		"price": 6,
+		"category": "Misc",
+		"defname": "SprinkledFuelMedium"
+	},
+	{
+		"abr": "sprinkledfuel(diluted)",
+		"price": 4,
+		"category": "Misc",
+		"defname": "SprinkledFuelSmall"
+	},
+	{
+		"abr": "sprinkledfuel(concentrated)",
+		"price": 13,
+		"category": "Misc",
+		"defname": "SprinkledFuelLarge"
+	},
+	{
+		"abr": "thickstoneroofing",
+		"price": 36,
+		"category": "Misc",
+		"defname": "ThickStoneRoofFraming"
+	},
+	{
+		"abr": "transparentroofing",
+		"price": 4,
+		"category": "Misc",
+		"defname": "RoofTransparentFraming"
+	},
+	{
+		"abr": "guestmedicalmat",
+		"price": 433,
+		"category": "Misc",
+		"defname": "MSMedicalMatGuest"
 	}
 	],
-	"total": 1600
+	"total": 1611
 }
